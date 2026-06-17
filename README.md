@@ -1,236 +1,81 @@
-<!-- ============================================ -->
-<!-- 🌟 ANIMATED HEADER WITH GRADIENT WAVES      -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10,12,18,20,22,24,27,30&height=250&section=header&text=Dilanka%20Lakshitha&fontSize=55&fontAlignY=35&desc=✨%20E-Commerce%20Architect%20%7C%20Shopify%20Expert%20✨&descAlignY=55&descSize=20&animation=fadeIn" width="100%" />
-</p>
+# Hi, I'm Dilanka Lakshitha 👋
 
-<!-- ============================================ -->
-<!-- 🎯 TYPING ANIMATION - MODERN GLASS          -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=80&lines=🚀+Building+Digital+Experiences;💎+Shopify+%26+Liquid+Master;🎨+UI%2FUX+Design+Enthusiast;🌍+Remote+Work+Advocate" alt="Typing SVG" />
-</p>
+**Shopify Developer · Front-End Developer · E-Commerce Specialist**  
+📍 Sri Lanka &nbsp;|&nbsp; 🌐 Available for Remote Work &nbsp;|&nbsp; 💼 Open to Freelance & Full-Time
 
-<!-- ============================================ -->
-<!-- 📍 STATUS BADGES - MINIMALIST                -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Sri_Lanka-6C63FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💼_Open_for_Work-34A853?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🌍_Remote_Friendly-FF6B6B?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0D1117" />
-</p>
+---
 
-<br>
+## What I Do
 
-<!-- ============================================ -->
-<!-- 🎨 GLASS CARD - ABOUT ME (MINIMAL)          -->
-<!-- ============================================ -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" style="background: rgba(108, 99, 255, 0.05); border-radius: 25px; padding: 30px; backdrop-filter: blur(10px); border: 1px solid rgba(108, 99, 255, 0.15);">
-        <h3 style="color: #6C63FF;">💡 Crafting Digital Excellence</h3>
-        <p style="font-size: 16px; line-height: 2; color: #CCC;">
-          <strong style="color: #6C63FF;">Shopify</strong> · 
-          <strong style="color: #FF6B6B;">Front-End</strong> · 
-          <strong style="color: #34A853;">E-Commerce</strong>
-        </p>
-        <p style="font-size: 14px; line-height: 1.8; color: #AAA;">
-          Building high-converting digital experiences with clean code and smart design.
-        </p>
-        <br>
-        <div>
-          <img src="https://img.shields.io/badge/⭐_7%2B_Stores_Launched-FFD93D?style=flat-square&labelColor=0D1117" />
-          <img src="https://img.shields.io/badge/🚀_20%2B_Projects-6C63FF?style=flat-square&labelColor=0D1117" />
-          <img src="https://img.shields.io/badge/💯_100%25_Satisfaction-34A853?style=flat-square&labelColor=0D1117" />
-        </div>
-      </td>
-      <td width="40%" align="center" style="background: rgba(255, 107, 107, 0.05); border-radius: 25px; padding: 30px; border: 1px solid rgba(255, 107, 107, 0.15);">
-        <div style="font-size: 50px; line-height: 1.5;">
-          🛒<br>💻<br>📈<br>⚙️<br>🌐
-        </div>
-        <p style="font-size: 12px; color: #666; margin: 10px 0 0 0;">
-          Shopify · Front-End · Marketing · Automation · WordPress
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+I build and customise Shopify and WordPress stores that convert — from theme development with Liquid to full store setup, SEO, and automation. I've launched 7+ live e-commerce stores and helped businesses grow their online presence through clean code and smart marketing.
 
-<br>
+- 🛒 **Shopify** — Store setup, Liquid theme customisation, custom sections, app integrations
+- 💻 **Front-End** — HTML, CSS, JavaScript, responsive UI/UX design
+- 📈 **Digital Marketing** — SEO, Pinterest marketing, organic traffic growth
+- ⚙️ **Automation** — Shopify app integrations, workflow automation, analytics & tracking
+- 🌐 **WordPress** — WooCommerce stores, theme customisation, plugin configuration
 
-<!-- ============================================ -->
-<!-- 🛠️ TECH STACK - VISUAL GRID                 -->
-<!-- ============================================ -->
-<h2 align="center">
-  <span style="color: #6C63FF;">✦</span>
-  Tech Arsenal
-  <span style="color: #6C63FF;">✦</span>
-</h2>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,mysql,figma" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Liquid-00A4BD?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" />
-</p>
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-00A4BD?style=flat-square&logo=shopify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<br>
+---
 
-<!-- ============================================ -->
-<!-- 🎯 FEATURED PROJECTS - MINIMAL CARDS        -->
-<!-- ============================================ -->
-<h2 align="center">
-  <span style="color: #FF6B6B;">✦</span>
-  Featured Work
-  <span style="color: #FF6B6B;">✦</span>
-</h2>
+## 📂 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" style="background: rgba(108, 99, 255, 0.05); border-radius: 20px; padding: 20px; border: 1px solid rgba(108, 99, 255, 0.15);">
-        <div style="font-size: 40px;">🛒</div>
-        <h4 style="color: #6C63FF; margin: 10px 0 5px 0;">Custom Product Page</h4>
-        <p style="font-size: 12px; color: #888; line-height: 1.6;">
-          Liquid · CSS · JS
-        </p>
-        <a href="https://github.com/Dilonz/shopify-custom-product-page">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
-        </a>
-      </td>
-      <td width="33%" align="center" style="background: rgba(255, 107, 107, 0.05); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 107, 107, 0.15);">
-        <div style="font-size: 40px;">🎨</div>
-        <h4 style="color: #FF6B6B; margin: 10px 0 5px 0;">Dawn Theme Kit</h4>
-        <p style="font-size: 12px; color: #888; line-height: 1.6;">
-          Liquid · CSS · Shopify
-        </p>
-        <a href="https://github.com/Dilonz/shopify-dawn-customisation">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
-        </a>
-      </td>
-      <td width="33%" align="center" style="background: rgba(52, 168, 83, 0.05); border-radius: 20px; padding: 20px; border: 1px solid rgba(52, 168, 83, 0.15);">
-        <div style="font-size: 40px;">🌐</div>
-        <h4 style="color: #34A853; margin: 10px 0 5px 0;">WooCommerce Store</h4>
-        <p style="font-size: 12px; color: #888; line-height: 1.6;">
-          PHP · CSS · WordPress
-        </p>
-        <a href="https://github.com/Dilonz/wordpress-woocommerce-store">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🛒 [Shopify Custom Product Page — Liquid Components](https://github.com/Dilonz/shopify-custom-product-page)
+> Custom Liquid sections, accordion FAQs, trust badges, and metafield integration. Built for a premium cycling components brand.
+> 
+> `Liquid` `CSS` `JavaScript` `Shopify`
 
-<br>
+---
 
-<!-- ============================================ -->
-<!-- 📊 GITHUB STATS - GLASS CARDS               -->
-<!-- ============================================ -->
-<h2 align="center">
-  <span style="color: #FFD93D;">✦</span>
-  GitHub Analytics
-  <span style="color: #FFD93D;">✦</span>
-</h2>
+### 🎨 [Shopify Dawn Theme Customisation Starter](https://github.com/Dilonz/shopify-dawn-customisation)
+> A reusable starter kit for customising Shopify's Dawn theme — includes custom colour tokens, section templates, and responsive layout overrides.
+>
+> `Liquid` `CSS` `Shopify`
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dilonz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilonz&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</div>
+---
 
-<br>
+### 🌐 [WordPress WooCommerce Store Template](https://github.com/Dilonz/wordpress-woocommerce-store)
+> Clean WooCommerce setup with custom child theme, optimised product pages, and basic SEO configuration.
+>
+> `PHP` `CSS` `WordPress` `WooCommerce`
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilonz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Dilonz&theme=radical&no-frame=true&row=2&column=2&bg_color=0D1117" />
-</div>
+---
 
-<br>
+## 📊 GitHub Stats
 
-<!-- ============================================ -->
-<!-- 🎓 EDUCATION - MINIMAL TIMELINE             -->
-<!-- ============================================ -->
-<h2 align="center">
-  <span style="color: #00A4BD;">✦</span>
-  Education
-  <span style="color: #00A4BD;">✦</span>
-</h2>
+![Dilanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilonz&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilonz&layout=compact&theme=default&hide_border=true)
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="border-left: 3px solid #6C63FF; padding: 15px; background: rgba(108, 99, 255, 0.03); border-radius: 10px;">
-        🎓 <strong style="color: #6C63FF;">BSc (Hons) Computing</strong>
-        <br><small style="color: #888;">Wrexham University, UK</small>
-      </td>
-    </tr>
-    <tr>
-      <td style="border-left: 3px solid #FF6B6B; padding: 15px; background: rgba(255, 107, 107, 0.03); border-radius: 10px;">
-        📜 <strong style="color: #FF6B6B;">Higher Diploma in Computing</strong>
-        <br><small style="color: #888;">Cardiff Metropolitan, UK</small>
-      </td>
-    </tr>
-    <tr>
-      <td style="border-left: 3px solid #34A853; padding: 15px; background: rgba(52, 168, 83, 0.03); border-radius: 10px;">
-        🏆 <strong style="color: #34A853;">Computer Hardware & Networking</strong>
-        <br><small style="color: #888;">Turnkey IT Campus</small>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br>
+## 🎓 Education & Certifications
 
-<!-- ============================================ -->
-<!-- 📫 CONNECT - MODERN SOCIAL                   -->
-<!-- ============================================ -->
-<h2 align="center">
-  <span style="color: #6C63FF;">✦</span>
-  Let's Connect
-  <span style="color: #6C63FF;">✦</span>
-</h2>
+- 🎓 **BSc (Hons) Computing** — Wrexham University, UK *(Ongoing)*
+- 🎓 **Higher Diploma in Computing & Software Engineering** — Cardiff Metropolitan University, UK
+- 🏆 **Computer Hardware Engineering & Networking** — Turnkey IT Campus
+- 🏆 **Windows Network Administration** — Turnkey IT Campus
+- 🏆 **Web Design (HTML/CSS/JS)** — Wijeya Graphics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dilankalakshitha-2572a92a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="mailto:dilankalakshitha333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
-  </a>
-</p>
+---
 
-<br>
+## 📫 Let's Connect
 
-<!-- ============================================ -->
-<!-- 💫 FOOTER - ANIMATED WAVES                  -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10,12,18,20,22,24,27,30&height=150&section=footer" width="100%" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilankalakshitha-2572a92a2/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dilankalakshitha333@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_USERNAME.github.io)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dilonz&label=✨%20Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
-</p>
+---
 
-<p align="center">
-  <span style="color: #6C63FF;">✦</span>
-  <span style="color: #888; font-size: 14px;">Built with ❤️ · Crafting digital excellence</span>
-  <span style="color: #6C63FF;">✦</span>
-</p>
-
-<!-- ============================================ -->
-<!-- 🎨 STYLE: DARK THEME · GLASS EFFECT · MINIMAL -->
-<!-- ============================================ -->
+*💡 Currently seeking remote Shopify developer and front-end roles. Let's build something great together.*
